@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.*.local
+
+!.env.example
+
+bin/
+dist/
+*.out
+
+*.test
+
+.DS_Store
